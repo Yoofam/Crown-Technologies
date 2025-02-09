@@ -7,10 +7,6 @@ Welcome to the Crown Technologies website! This project is a modern, responsive 
 - [About](#about)
 - [Technologies Used](#technologies-used)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## About
 
